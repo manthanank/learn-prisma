@@ -1,0 +1,20 @@
+{
+  "name": "learn-prisma",
+  "version": "1.0.0",
+  "description": "An exhaustive, production-grade Prisma ORM schema modeling, migrations & query architecture masterclass.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/prisma.test.mjs"
+  },
+  "keywords": [
+    "prisma",
+    "orm",
+    "database",
+    "postgresql",
+    "mysql",
+    "typescript"
+  ],
+  "author": "Manthan Ank",
+  "license": "MIT"
+}
